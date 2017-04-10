@@ -4,3 +4,13 @@
 
 ## CSS
 https://github.com/typekit/webfontloader
+
+## JS 
+
+
+## Images
+
+
+## Wordpress
+
+
